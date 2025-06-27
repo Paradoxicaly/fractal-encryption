@@ -2,7 +2,6 @@
 # Copyright (c) 2025 Derrick Kwan
 # Licensed under the MIT License
 
-
 import numpy as np
 import hashlib
 import collections
